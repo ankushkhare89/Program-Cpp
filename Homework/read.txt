@@ -1,0 +1,15 @@
+10,"myPattern10",src/patterns/Functional10.pat,true
+11,"myPattern11",src/patterns/Functional11.pat,false
+12,"myPattern12",src/patterns/Functional12.pat,true
+13,"myPattern13",src/patterns/Functional13.pat,false
+14,"myPattern14",src/patterns/Functional14.pat,true
+15,"myPattern15",src/patterns/Functional15.pat,false
+16,"myPattern16",src/patterns/Functional16.pat,true
+17,"myPattern17",src/patterns/Functional17.pat,false
+18,"myPattern18",src/patterns/Functional18.pat,true
+19,"myPattern19",src/patterns/Functional19.pat,false
+20,"myPattern20",src/patterns/Functional20.pat,true
+21,"myPattern21",src/patterns/Functional21.pat,false
+22,"myPattern22",src/patterns/Functional22.pat,true
+23,"myPattern23",src/patterns/Functional23.pat,false
+24,"myPattern24",src/patterns/Functional24.pat,true

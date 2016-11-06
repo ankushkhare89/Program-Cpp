@@ -1,0 +1,8 @@
+10,"myPattern10",src/patterns/Functional10.pat,true
+11,"myPattern11",src/patterns/Functional11.pat,false
+16,"myPattern16",src/patterns/Functional16.pat,true
+17,"myPattern17",src/patterns/Functional17.pat,false
+19,"myPattern",src/patterns/Functional19.pat,false
+20,"myPattern20",src/patterns/Functional20.pat,true
+23,"myPattern23",src/patterns/Functional23.pat,false
+24,"myPattern24",src/patterns/Functional24.pat,true
