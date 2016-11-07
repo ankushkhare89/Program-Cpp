@@ -1,0 +1,6 @@
+1. This program will write dummy tuples in read.txt file at the beginning. 
+2. Once it ask to enter the file name, you can enter read.txt which contains tuples. 
+3. It will display tuples in the file.
+4. Then the program will ask to enter 1 or 2 based on pattern to be read with true or false flags. 
+5. It will display the pattern name and will execute the pattern function. 
+6.Then the program will read the file dummy.txt and will compare the tuples from read.txt.

@@ -1,3 +1,0 @@
-This program will write dummy tuples in read.txt file at the beginning. 
-Once it ask to enter the file name, you can enter read.txt which contains dummy tuples. It will display tuples in the file.
-Then the program will ask to enter 1 or 2 based on pattern to read with true or false flags. It will display the pattern name and will execute the pattern function. Pattern function is the respective function related to pattern name. 
